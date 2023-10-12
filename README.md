@@ -1,8 +1,12 @@
 
 #TALLER # 9 - ML : Grupo 5
-Maria Fernanda Garcia Torres
-Carlos Andres Borja Gonzalez
-Johan Nicolas Moyano Poveda
+
+
+- Maria Fernanda Garcia Torres
+- Carlos Andres Borja Gonzalez
+- Johan Nicolas Moyano Poveda.
+
+
 Objetivo General:
 Desarrollar un modelo de machine learning que permita predecir o analizar el desempeño, la rentabilidad o la popularidad de los canales de YouTube en función de factores propios como el número de suscriptores, las vistas de video, el país de origen, el tipo de canal, las tasas de visualización y otros datos relevantes. Con esta implementacion, los creadores de contenido y las empresas podran estimar los ingresos potenciales de los canales antes de colaborar o invertir en ellos.
 
